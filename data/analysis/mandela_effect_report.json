@@ -1,0 +1,2899 @@
+{
+  "summary": {
+    "total_comments": 2616,
+    "category_distribution": {
+      "NOISE": 569,
+      "MANDELA_EFFECT": 903,
+      "REBUTTAL": 284,
+      "CONTENT": 860
+    },
+    "stance_distribution": {
+      "NEUTRAL": 1438,
+      "SUPPORT": 891,
+      "REFUTE": 287
+    }
+  },
+  "entities": {
+    "top_50": [
+      [
+        "毕导",
+        507
+      ],
+      [
+        "意大利面",
+        192
+      ],
+      [
+        "曼德拉效应",
+        162
+      ],
+      [
+        "视频",
+        148
+      ],
+      [
+        "意大利面断裂视频",
+        73
+      ],
+      [
+        "粉笔",
+        71
+      ],
+      [
+        "面条",
+        68
+      ],
+      [
+        "意大利面断裂",
+        51
+      ],
+      [
+        "视频链接",
+        50
+      ],
+      [
+        "意大利面视频",
+        45
+      ],
+      [
+        "广告",
+        43
+      ],
+      [
+        "意面",
+        36
+      ],
+      [
+        "博主",
+        34
+      ],
+      [
+        "意大利面断裂实验",
+        34
+      ],
+      [
+        "冷科普",
+        31
+      ],
+      [
+        "华为",
+        30
+      ],
+      [
+        "搞笑诺贝尔奖",
+        27
+      ],
+      [
+        "科普视频",
+        27
+      ],
+      [
+        "这集视频",
+        26
+      ],
+      [
+        "这期视频",
+        25
+      ],
+      [
+        "视频内容",
+        22
+      ],
+      [
+        "2023年",
+        21
+      ],
+      [
+        "bv1jp4y1y7be",
+        17
+      ],
+      [
+        "意大利面断裂实验视频",
+        17
+      ],
+      [
+        "机器",
+        16
+      ],
+      [
+        "评论区",
+        16
+      ],
+      [
+        "折叠屏",
+        16
+      ],
+      [
+        "几年前",
+        16
+      ],
+      [
+        "旧手机",
+        14
+      ],
+      [
+        "吃喝玩乐指数视频",
+        14
+      ],
+      [
+        "这一集视频",
+        13
+      ],
+      [
+        "大号",
+        13
+      ],
+      [
+        "意大利面不能折成两段",
+        13
+      ],
+      [
+        "掰成两段",
+        13
+      ],
+      [
+        "小号",
+        13
+      ],
+      [
+        "小翔哥",
+        13
+      ],
+      [
+        "折成两段",
+        12
+      ],
+      [
+        "b站",
+        12
+      ],
+      [
+        "up主",
+        12
+      ],
+      [
+        "扭着掰",
+        12
+      ],
+      [
+        "曼德拉效应视频",
+        12
+      ],
+      [
+        "水",
+        12
+      ],
+      [
+        "这个视频",
+        12
+      ],
+      [
+        "烟",
+        12
+      ],
+      [
+        "两段",
+        11
+      ],
+      [
+        "三段",
+        11
+      ],
+      [
+        "实验",
+        11
+      ],
+      [
+        "班主任",
+        11
+      ],
+      [
+        "掰",
+        11
+      ],
+      [
+        "萌萌战队",
+        11
+      ]
+    ],
+    "total_unique": 2016
+  },
+  "time_series": {
+    "daily": {
+      "2025-12-18": {
+        "MANDELA_EFFECT": 36,
+        "REBUTTAL": 21,
+        "CONTENT": 112,
+        "NOISE": 77
+      },
+      "2025-12-19": {
+        "MANDELA_EFFECT": 416,
+        "REBUTTAL": 120,
+        "CONTENT": 370,
+        "NOISE": 246
+      },
+      "2025-12-20": {
+        "MANDELA_EFFECT": 95,
+        "REBUTTAL": 24,
+        "CONTENT": 88,
+        "NOISE": 43
+      },
+      "2026-01-28": {
+        "MANDELA_EFFECT": 83,
+        "REBUTTAL": 31,
+        "CONTENT": 54,
+        "NOISE": 39
+      },
+      "2025-12-29": {
+        "MANDELA_EFFECT": 3,
+        "REBUTTAL": 2,
+        "CONTENT": 7,
+        "NOISE": 5
+      },
+      "2025-12-31": {
+        "MANDELA_EFFECT": 2,
+        "REBUTTAL": 1,
+        "CONTENT": 5,
+        "NOISE": 4
+      },
+      "2026-01-29": {
+        "MANDELA_EFFECT": 50,
+        "REBUTTAL": 35,
+        "CONTENT": 22,
+        "NOISE": 29
+      },
+      "2025-12-24": {
+        "MANDELA_EFFECT": 11,
+        "REBUTTAL": 1,
+        "CONTENT": 6,
+        "NOISE": 5
+      },
+      "2025-12-22": {
+        "MANDELA_EFFECT": 11,
+        "REBUTTAL": 0,
+        "CONTENT": 19,
+        "NOISE": 10
+      },
+      "2026-01-04": {
+        "MANDELA_EFFECT": 4,
+        "REBUTTAL": 2,
+        "CONTENT": 3,
+        "NOISE": 1
+      },
+      "2026-01-12": {
+        "MANDELA_EFFECT": 2,
+        "REBUTTAL": 1,
+        "CONTENT": 7,
+        "NOISE": 3
+      },
+      "2026-02-01": {
+        "MANDELA_EFFECT": 8,
+        "REBUTTAL": 0,
+        "CONTENT": 4,
+        "NOISE": 0
+      },
+      "2025-12-23": {
+        "MANDELA_EFFECT": 17,
+        "REBUTTAL": 2,
+        "CONTENT": 13,
+        "NOISE": 5
+      },
+      "2026-02-03": {
+        "MANDELA_EFFECT": 6,
+        "REBUTTAL": 3,
+        "CONTENT": 1,
+        "NOISE": 5
+      },
+      "2025-12-21": {
+        "MANDELA_EFFECT": 61,
+        "REBUTTAL": 7,
+        "CONTENT": 36,
+        "NOISE": 35
+      },
+      "2026-01-01": {
+        "MANDELA_EFFECT": 4,
+        "REBUTTAL": 1,
+        "CONTENT": 9,
+        "NOISE": 3
+      },
+      "2026-01-30": {
+        "MANDELA_EFFECT": 20,
+        "REBUTTAL": 3,
+        "CONTENT": 11,
+        "NOISE": 8
+      },
+      "2026-01-08": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 2,
+        "CONTENT": 1,
+        "NOISE": 2
+      },
+      "2025-12-25": {
+        "MANDELA_EFFECT": 8,
+        "REBUTTAL": 3,
+        "CONTENT": 5,
+        "NOISE": 5
+      },
+      "2025-12-26": {
+        "MANDELA_EFFECT": 2,
+        "REBUTTAL": 0,
+        "CONTENT": 2,
+        "NOISE": 4
+      },
+      "2025-12-27": {
+        "MANDELA_EFFECT": 4,
+        "REBUTTAL": 1,
+        "CONTENT": 1,
+        "NOISE": 2
+      },
+      "2025-12-28": {
+        "MANDELA_EFFECT": 2,
+        "REBUTTAL": 0,
+        "CONTENT": 4,
+        "NOISE": 1
+      },
+      "2025-12-30": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 2,
+        "CONTENT": 3,
+        "NOISE": 2
+      },
+      "2026-01-02": {
+        "MANDELA_EFFECT": 5,
+        "REBUTTAL": 3,
+        "CONTENT": 8,
+        "NOISE": 3
+      },
+      "2026-01-03": {
+        "MANDELA_EFFECT": 6,
+        "REBUTTAL": 1,
+        "CONTENT": 7,
+        "NOISE": 3
+      },
+      "2026-01-05": {
+        "MANDELA_EFFECT": 4,
+        "REBUTTAL": 1,
+        "CONTENT": 3,
+        "NOISE": 0
+      },
+      "2026-01-06": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 1,
+        "CONTENT": 5,
+        "NOISE": 0
+      },
+      "2026-01-07": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 1,
+        "CONTENT": 4,
+        "NOISE": 2
+      },
+      "2026-01-27": {
+        "MANDELA_EFFECT": 7,
+        "REBUTTAL": 6,
+        "CONTENT": 14,
+        "NOISE": 8
+      },
+      "2026-01-31": {
+        "MANDELA_EFFECT": 5,
+        "REBUTTAL": 2,
+        "CONTENT": 8,
+        "NOISE": 5
+      },
+      "2026-02-02": {
+        "MANDELA_EFFECT": 8,
+        "REBUTTAL": 1,
+        "CONTENT": 3,
+        "NOISE": 5
+      },
+      "2026-02-06": {
+        "MANDELA_EFFECT": 2,
+        "REBUTTAL": 1,
+        "CONTENT": 1,
+        "NOISE": 1
+      },
+      "2026-01-15": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 2,
+        "CONTENT": 2,
+        "NOISE": 0
+      },
+      "2026-01-13": {
+        "MANDELA_EFFECT": 2,
+        "REBUTTAL": 0,
+        "CONTENT": 4,
+        "NOISE": 1
+      },
+      "2026-01-10": {
+        "MANDELA_EFFECT": 4,
+        "REBUTTAL": 1,
+        "CONTENT": 6,
+        "NOISE": 1
+      },
+      "2026-02-04": {
+        "MANDELA_EFFECT": 4,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 1
+      },
+      "2026-01-18": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2026-01-09": {
+        "MANDELA_EFFECT": 2,
+        "REBUTTAL": 0,
+        "CONTENT": 3,
+        "NOISE": 1
+      },
+      "2026-01-11": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 5,
+        "NOISE": 2
+      },
+      "2026-01-14": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 1,
+        "CONTENT": 2,
+        "NOISE": 2
+      },
+      "2026-01-17": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2026-02-05": {
+        "MANDELA_EFFECT": 3,
+        "REBUTTAL": 1,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2026-01-22": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      }
+    },
+    "hourly": {
+      "2025-12-18 22:00": {
+        "MANDELA_EFFECT": 19,
+        "REBUTTAL": 9,
+        "CONTENT": 92,
+        "NOISE": 65
+      },
+      "2025-12-18 23:00": {
+        "MANDELA_EFFECT": 17,
+        "REBUTTAL": 12,
+        "CONTENT": 20,
+        "NOISE": 12
+      },
+      "2025-12-19 00:00": {
+        "MANDELA_EFFECT": 44,
+        "REBUTTAL": 14,
+        "CONTENT": 44,
+        "NOISE": 39
+      },
+      "2025-12-19 01:00": {
+        "MANDELA_EFFECT": 28,
+        "REBUTTAL": 15,
+        "CONTENT": 32,
+        "NOISE": 33
+      },
+      "2025-12-19 02:00": {
+        "MANDELA_EFFECT": 24,
+        "REBUTTAL": 5,
+        "CONTENT": 17,
+        "NOISE": 27
+      },
+      "2025-12-19 03:00": {
+        "MANDELA_EFFECT": 21,
+        "REBUTTAL": 9,
+        "CONTENT": 24,
+        "NOISE": 29
+      },
+      "2025-12-19 04:00": {
+        "MANDELA_EFFECT": 30,
+        "REBUTTAL": 14,
+        "CONTENT": 25,
+        "NOISE": 20
+      },
+      "2025-12-19 05:00": {
+        "MANDELA_EFFECT": 43,
+        "REBUTTAL": 13,
+        "CONTENT": 31,
+        "NOISE": 13
+      },
+      "2025-12-19 06:00": {
+        "MANDELA_EFFECT": 31,
+        "REBUTTAL": 4,
+        "CONTENT": 21,
+        "NOISE": 14
+      },
+      "2025-12-19 07:00": {
+        "MANDELA_EFFECT": 36,
+        "REBUTTAL": 9,
+        "CONTENT": 20,
+        "NOISE": 13
+      },
+      "2025-12-19 08:00": {
+        "MANDELA_EFFECT": 16,
+        "REBUTTAL": 7,
+        "CONTENT": 28,
+        "NOISE": 6
+      },
+      "2025-12-20 07:00": {
+        "MANDELA_EFFECT": 7,
+        "REBUTTAL": 0,
+        "CONTENT": 6,
+        "NOISE": 1
+      },
+      "2026-01-28 10:00": {
+        "MANDELA_EFFECT": 5,
+        "REBUTTAL": 2,
+        "CONTENT": 1,
+        "NOISE": 1
+      },
+      "2025-12-19 09:00": {
+        "MANDELA_EFFECT": 17,
+        "REBUTTAL": 2,
+        "CONTENT": 23,
+        "NOISE": 10
+      },
+      "2025-12-20 00:00": {
+        "MANDELA_EFFECT": 11,
+        "REBUTTAL": 0,
+        "CONTENT": 10,
+        "NOISE": 6
+      },
+      "2026-01-28 03:00": {
+        "MANDELA_EFFECT": 2,
+        "REBUTTAL": 0,
+        "CONTENT": 2,
+        "NOISE": 2
+      },
+      "2025-12-29 06:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 1
+      },
+      "2026-01-28 21:00": {
+        "MANDELA_EFFECT": 4,
+        "REBUTTAL": 0,
+        "CONTENT": 3,
+        "NOISE": 0
+      },
+      "2025-12-19 12:00": {
+        "MANDELA_EFFECT": 14,
+        "REBUTTAL": 6,
+        "CONTENT": 7,
+        "NOISE": 4
+      },
+      "2025-12-19 17:00": {
+        "MANDELA_EFFECT": 3,
+        "REBUTTAL": 0,
+        "CONTENT": 5,
+        "NOISE": 2
+      },
+      "2025-12-20 02:00": {
+        "MANDELA_EFFECT": 10,
+        "REBUTTAL": 2,
+        "CONTENT": 9,
+        "NOISE": 1
+      },
+      "2025-12-20 08:00": {
+        "MANDELA_EFFECT": 5,
+        "REBUTTAL": 2,
+        "CONTENT": 2,
+        "NOISE": 5
+      },
+      "2025-12-20 09:00": {
+        "MANDELA_EFFECT": 3,
+        "REBUTTAL": 3,
+        "CONTENT": 4,
+        "NOISE": 2
+      },
+      "2025-12-31 23:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 1,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2026-01-28 05:00": {
+        "MANDELA_EFFECT": 5,
+        "REBUTTAL": 2,
+        "CONTENT": 8,
+        "NOISE": 1
+      },
+      "2026-01-29 06:00": {
+        "MANDELA_EFFECT": 2,
+        "REBUTTAL": 5,
+        "CONTENT": 1,
+        "NOISE": 4
+      },
+      "2025-12-24 01:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 1,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2025-12-20 01:00": {
+        "MANDELA_EFFECT": 13,
+        "REBUTTAL": 6,
+        "CONTENT": 9,
+        "NOISE": 2
+      },
+      "2025-12-22 12:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2026-01-04 03:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 1,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2026-01-28 00:00": {
+        "MANDELA_EFFECT": 3,
+        "REBUTTAL": 1,
+        "CONTENT": 1,
+        "NOISE": 2
+      },
+      "2025-12-29 13:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 1
+      },
+      "2025-12-24 21:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 3
+      },
+      "2026-01-12 19:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 1,
+        "CONTENT": 3,
+        "NOISE": 2
+      },
+      "2026-01-29 10:00": {
+        "MANDELA_EFFECT": 6,
+        "REBUTTAL": 1,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2026-01-29 20:00": {
+        "MANDELA_EFFECT": 3,
+        "REBUTTAL": 2,
+        "CONTENT": 1,
+        "NOISE": 9
+      },
+      "2026-01-28 22:00": {
+        "MANDELA_EFFECT": 3,
+        "REBUTTAL": 4,
+        "CONTENT": 4,
+        "NOISE": 0
+      },
+      "2026-02-01 06:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2026-01-28 08:00": {
+        "MANDELA_EFFECT": 2,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 5
+      },
+      "2025-12-19 20:00": {
+        "MANDELA_EFFECT": 8,
+        "REBUTTAL": 5,
+        "CONTENT": 8,
+        "NOISE": 2
+      },
+      "2025-12-23 01:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2026-02-03 09:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 2,
+        "CONTENT": 1,
+        "NOISE": 1
+      },
+      "2025-12-19 22:00": {
+        "MANDELA_EFFECT": 17,
+        "REBUTTAL": 4,
+        "CONTENT": 13,
+        "NOISE": 7
+      },
+      "2025-12-21 03:00": {
+        "MANDELA_EFFECT": 8,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 3
+      },
+      "2025-12-19 23:00": {
+        "MANDELA_EFFECT": 13,
+        "REBUTTAL": 3,
+        "CONTENT": 10,
+        "NOISE": 7
+      },
+      "2025-12-20 04:00": {
+        "MANDELA_EFFECT": 6,
+        "REBUTTAL": 2,
+        "CONTENT": 6,
+        "NOISE": 1
+      },
+      "2025-12-20 10:00": {
+        "MANDELA_EFFECT": 4,
+        "REBUTTAL": 1,
+        "CONTENT": 1,
+        "NOISE": 1
+      },
+      "2025-12-21 00:00": {
+        "MANDELA_EFFECT": 4,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 3
+      },
+      "2025-12-21 04:00": {
+        "MANDELA_EFFECT": 5,
+        "REBUTTAL": 0,
+        "CONTENT": 5,
+        "NOISE": 0
+      },
+      "2025-12-19 10:00": {
+        "MANDELA_EFFECT": 16,
+        "REBUTTAL": 3,
+        "CONTENT": 17,
+        "NOISE": 3
+      },
+      "2025-12-19 15:00": {
+        "MANDELA_EFFECT": 6,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2025-12-20 06:00": {
+        "MANDELA_EFFECT": 3,
+        "REBUTTAL": 2,
+        "CONTENT": 6,
+        "NOISE": 5
+      },
+      "2025-12-20 22:00": {
+        "MANDELA_EFFECT": 4,
+        "REBUTTAL": 1,
+        "CONTENT": 2,
+        "NOISE": 2
+      },
+      "2025-12-21 01:00": {
+        "MANDELA_EFFECT": 2,
+        "REBUTTAL": 1,
+        "CONTENT": 0,
+        "NOISE": 4
+      },
+      "2025-12-21 08:00": {
+        "MANDELA_EFFECT": 5,
+        "REBUTTAL": 1,
+        "CONTENT": 5,
+        "NOISE": 3
+      },
+      "2025-12-22 08:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 4,
+        "NOISE": 1
+      },
+      "2026-01-01 20:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2026-01-28 04:00": {
+        "MANDELA_EFFECT": 8,
+        "REBUTTAL": 2,
+        "CONTENT": 7,
+        "NOISE": 6
+      },
+      "2026-01-28 18:00": {
+        "MANDELA_EFFECT": 5,
+        "REBUTTAL": 1,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2026-01-29 07:00": {
+        "MANDELA_EFFECT": 4,
+        "REBUTTAL": 2,
+        "CONTENT": 5,
+        "NOISE": 0
+      },
+      "2026-01-29 11:00": {
+        "MANDELA_EFFECT": 4,
+        "REBUTTAL": 2,
+        "CONTENT": 2,
+        "NOISE": 1
+      },
+      "2026-01-29 19:00": {
+        "MANDELA_EFFECT": 4,
+        "REBUTTAL": 15,
+        "CONTENT": 1,
+        "NOISE": 2
+      },
+      "2026-01-30 07:00": {
+        "MANDELA_EFFECT": 3,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2026-01-30 13:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2026-01-28 01:00": {
+        "MANDELA_EFFECT": 5,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2025-12-22 02:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 1
+      },
+      "2026-01-08 03:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 1
+      },
+      "2026-01-28 02:00": {
+        "MANDELA_EFFECT": 6,
+        "REBUTTAL": 2,
+        "CONTENT": 3,
+        "NOISE": 0
+      },
+      "2026-01-28 11:00": {
+        "MANDELA_EFFECT": 3,
+        "REBUTTAL": 1,
+        "CONTENT": 1,
+        "NOISE": 2
+      },
+      "2026-01-28 06:00": {
+        "MANDELA_EFFECT": 9,
+        "REBUTTAL": 0,
+        "CONTENT": 4,
+        "NOISE": 4
+      },
+      "2026-01-29 04:00": {
+        "MANDELA_EFFECT": 4,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 2
+      },
+      "2026-01-29 00:00": {
+        "MANDELA_EFFECT": 4,
+        "REBUTTAL": 0,
+        "CONTENT": 2,
+        "NOISE": 1
+      },
+      "2026-01-29 12:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 1,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2026-02-01 07:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2025-12-21 09:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 1,
+        "CONTENT": 3,
+        "NOISE": 0
+      },
+      "2025-12-25 00:00": {
+        "MANDELA_EFFECT": 2,
+        "REBUTTAL": 2,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2025-12-24 19:00": {
+        "MANDELA_EFFECT": 2,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2026-01-04 05:00": {
+        "MANDELA_EFFECT": 3,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2025-12-23 07:00": {
+        "MANDELA_EFFECT": 3,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2026-01-30 01:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 1,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2026-01-30 06:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 1,
+        "CONTENT": 0,
+        "NOISE": 2
+      },
+      "2025-12-19 11:00": {
+        "MANDELA_EFFECT": 12,
+        "REBUTTAL": 1,
+        "CONTENT": 13,
+        "NOISE": 6
+      },
+      "2025-12-19 21:00": {
+        "MANDELA_EFFECT": 14,
+        "REBUTTAL": 1,
+        "CONTENT": 11,
+        "NOISE": 2
+      },
+      "2025-12-19 13:00": {
+        "MANDELA_EFFECT": 9,
+        "REBUTTAL": 4,
+        "CONTENT": 8,
+        "NOISE": 1
+      },
+      "2025-12-19 14:00": {
+        "MANDELA_EFFECT": 3,
+        "REBUTTAL": 0,
+        "CONTENT": 3,
+        "NOISE": 2
+      },
+      "2025-12-19 16:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 1,
+        "CONTENT": 1,
+        "NOISE": 1
+      },
+      "2025-12-19 18:00": {
+        "MANDELA_EFFECT": 3,
+        "REBUTTAL": 0,
+        "CONTENT": 3,
+        "NOISE": 4
+      },
+      "2025-12-19 19:00": {
+        "MANDELA_EFFECT": 7,
+        "REBUTTAL": 0,
+        "CONTENT": 5,
+        "NOISE": 1
+      },
+      "2025-12-20 03:00": {
+        "MANDELA_EFFECT": 2,
+        "REBUTTAL": 2,
+        "CONTENT": 6,
+        "NOISE": 1
+      },
+      "2025-12-20 05:00": {
+        "MANDELA_EFFECT": 5,
+        "REBUTTAL": 3,
+        "CONTENT": 5,
+        "NOISE": 1
+      },
+      "2025-12-25 03:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 1
+      },
+      "2026-01-28 23:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 1,
+        "CONTENT": 1,
+        "NOISE": 2
+      },
+      "2025-12-20 11:00": {
+        "MANDELA_EFFECT": 4,
+        "REBUTTAL": 0,
+        "CONTENT": 4,
+        "NOISE": 0
+      },
+      "2025-12-20 12:00": {
+        "MANDELA_EFFECT": 3,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2025-12-20 14:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 2
+      },
+      "2025-12-20 15:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 2,
+        "NOISE": 0
+      },
+      "2025-12-20 16:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2025-12-20 17:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 4,
+        "NOISE": 0
+      },
+      "2025-12-20 18:00": {
+        "MANDELA_EFFECT": 2,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 1
+      },
+      "2025-12-20 20:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 3
+      },
+      "2025-12-20 21:00": {
+        "MANDELA_EFFECT": 2,
+        "REBUTTAL": 0,
+        "CONTENT": 4,
+        "NOISE": 3
+      },
+      "2025-12-21 11:00": {
+        "MANDELA_EFFECT": 5,
+        "REBUTTAL": 0,
+        "CONTENT": 3,
+        "NOISE": 0
+      },
+      "2025-12-20 23:00": {
+        "MANDELA_EFFECT": 6,
+        "REBUTTAL": 0,
+        "CONTENT": 2,
+        "NOISE": 4
+      },
+      "2025-12-21 02:00": {
+        "MANDELA_EFFECT": 6,
+        "REBUTTAL": 2,
+        "CONTENT": 4,
+        "NOISE": 4
+      },
+      "2025-12-21 05:00": {
+        "MANDELA_EFFECT": 3,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 5
+      },
+      "2025-12-21 06:00": {
+        "MANDELA_EFFECT": 4,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 2
+      },
+      "2025-12-21 07:00": {
+        "MANDELA_EFFECT": 3,
+        "REBUTTAL": 1,
+        "CONTENT": 3,
+        "NOISE": 3
+      },
+      "2025-12-21 10:00": {
+        "MANDELA_EFFECT": 3,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 5
+      },
+      "2025-12-21 13:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 2,
+        "NOISE": 0
+      },
+      "2025-12-21 14:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 1
+      },
+      "2025-12-21 18:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2025-12-21 20:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2025-12-21 22:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 1,
+        "CONTENT": 2,
+        "NOISE": 0
+      },
+      "2025-12-21 23:00": {
+        "MANDELA_EFFECT": 3,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 1
+      },
+      "2025-12-22 01:00": {
+        "MANDELA_EFFECT": 3,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2025-12-22 04:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 3,
+        "NOISE": 1
+      },
+      "2025-12-22 05:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 1
+      },
+      "2025-12-22 06:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 2,
+        "NOISE": 1
+      },
+      "2025-12-22 07:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 1
+      },
+      "2025-12-22 09:00": {
+        "MANDELA_EFFECT": 2,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 1
+      },
+      "2025-12-22 10:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 1
+      },
+      "2025-12-22 21:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 2,
+        "NOISE": 0
+      },
+      "2025-12-22 22:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 1
+      },
+      "2025-12-23 02:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 2,
+        "NOISE": 0
+      },
+      "2025-12-23 03:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 1
+      },
+      "2025-12-23 04:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 1
+      },
+      "2025-12-23 05:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 1,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2025-12-23 06:00": {
+        "MANDELA_EFFECT": 2,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 1
+      },
+      "2025-12-23 08:00": {
+        "MANDELA_EFFECT": 3,
+        "REBUTTAL": 0,
+        "CONTENT": 2,
+        "NOISE": 0
+      },
+      "2025-12-23 10:00": {
+        "MANDELA_EFFECT": 2,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 1
+      },
+      "2025-12-23 12:00": {
+        "MANDELA_EFFECT": 2,
+        "REBUTTAL": 1,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2025-12-23 22:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2025-12-23 23:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 1
+      },
+      "2025-12-24 03:00": {
+        "MANDELA_EFFECT": 2,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 2
+      },
+      "2025-12-24 06:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2025-12-24 07:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2025-12-24 08:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2025-12-24 09:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2025-12-24 11:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2025-12-24 22:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2025-12-25 04:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2025-12-25 07:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2025-12-25 08:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 2
+      },
+      "2025-12-25 23:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 1,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2025-12-26 11:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2025-12-27 07:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2025-12-27 17:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 1
+      },
+      "2025-12-28 09:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2025-12-28 20:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2025-12-29 01:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 1
+      },
+      "2025-12-29 08:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 1
+      },
+      "2025-12-29 10:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2025-12-29 21:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2025-12-30 06:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 1,
+        "CONTENT": 1,
+        "NOISE": 1
+      },
+      "2025-12-30 09:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 1
+      },
+      "2025-12-30 15:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2025-12-31 02:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 2
+      },
+      "2025-12-31 05:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 1
+      },
+      "2025-12-31 08:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2025-12-31 22:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 2,
+        "NOISE": 0
+      },
+      "2026-01-01 01:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 2,
+        "NOISE": 0
+      },
+      "2026-01-01 02:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 1
+      },
+      "2026-01-01 03:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 2,
+        "NOISE": 0
+      },
+      "2026-01-01 05:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 2,
+        "NOISE": 1
+      },
+      "2026-01-01 09:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2026-01-01 19:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 1
+      },
+      "2026-01-01 21:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2026-01-02 01:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 2,
+        "NOISE": 0
+      },
+      "2026-01-02 03:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 1
+      },
+      "2026-01-02 10:00": {
+        "MANDELA_EFFECT": 3,
+        "REBUTTAL": 0,
+        "CONTENT": 2,
+        "NOISE": 0
+      },
+      "2026-01-03 00:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2026-01-03 01:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 2,
+        "NOISE": 1
+      },
+      "2026-01-03 02:00": {
+        "MANDELA_EFFECT": 2,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2026-01-03 07:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2026-01-04 07:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2026-01-05 02:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2026-01-05 06:00": {
+        "MANDELA_EFFECT": 2,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2026-01-05 10:00": {
+        "MANDELA_EFFECT": 2,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2026-01-05 11:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2026-01-05 23:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2026-01-06 02:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2026-01-06 05:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 2,
+        "NOISE": 0
+      },
+      "2026-01-07 09:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 2,
+        "NOISE": 0
+      },
+      "2025-12-22 03:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2026-01-29 03:00": {
+        "MANDELA_EFFECT": 2,
+        "REBUTTAL": 1,
+        "CONTENT": 2,
+        "NOISE": 2
+      },
+      "2026-01-28 09:00": {
+        "MANDELA_EFFECT": 3,
+        "REBUTTAL": 2,
+        "CONTENT": 8,
+        "NOISE": 4
+      },
+      "2026-01-29 09:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 3
+      },
+      "2025-12-20 19:00": {
+        "MANDELA_EFFECT": 3,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 2
+      },
+      "2025-12-29 07:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 2,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2026-01-02 05:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2026-01-03 03:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2026-01-04 10:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 1
+      },
+      "2026-01-07 07:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 2
+      },
+      "2026-01-12 03:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2026-01-27 22:00": {
+        "MANDELA_EFFECT": 7,
+        "REBUTTAL": 4,
+        "CONTENT": 10,
+        "NOISE": 5
+      },
+      "2026-01-27 23:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 2,
+        "CONTENT": 4,
+        "NOISE": 3
+      },
+      "2026-01-28 07:00": {
+        "MANDELA_EFFECT": 7,
+        "REBUTTAL": 10,
+        "CONTENT": 5,
+        "NOISE": 3
+      },
+      "2026-01-28 12:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 1
+      },
+      "2026-01-28 13:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 1
+      },
+      "2026-01-28 19:00": {
+        "MANDELA_EFFECT": 4,
+        "REBUTTAL": 1,
+        "CONTENT": 3,
+        "NOISE": 2
+      },
+      "2026-01-29 01:00": {
+        "MANDELA_EFFECT": 2,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 1
+      },
+      "2026-01-29 05:00": {
+        "MANDELA_EFFECT": 5,
+        "REBUTTAL": 1,
+        "CONTENT": 2,
+        "NOISE": 1
+      },
+      "2026-01-29 08:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 1,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2026-01-29 23:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 2,
+        "NOISE": 2
+      },
+      "2026-01-30 12:00": {
+        "MANDELA_EFFECT": 2,
+        "REBUTTAL": 1,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2026-01-31 01:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 2,
+        "NOISE": 0
+      },
+      "2026-01-31 07:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 1
+      },
+      "2026-02-02 23:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 1
+      },
+      "2026-02-06 04:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 1
+      },
+      "2026-01-31 05:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 1,
+        "CONTENT": 1,
+        "NOISE": 1
+      },
+      "2025-12-23 13:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2026-01-29 22:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 1,
+        "CONTENT": 0,
+        "NOISE": 1
+      },
+      "2025-12-21 19:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2026-01-15 21:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 1,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2025-12-23 09:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 4,
+        "NOISE": 0
+      },
+      "2026-01-13 07:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 1
+      },
+      "2026-01-02 07:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 1,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2025-12-21 21:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 1
+      },
+      "2026-01-13 08:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2026-01-02 00:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 1,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2025-12-22 20:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 1
+      },
+      "2025-12-26 01:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 2
+      },
+      "2026-01-03 05:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 1
+      },
+      "2026-01-08 08:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 1
+      },
+      "2026-01-30 00:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 1
+      },
+      "2026-02-02 01:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 1
+      },
+      "2026-01-02 02:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 1
+      },
+      "2026-01-03 11:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 1
+      },
+      "2026-01-08 05:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 2,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2026-01-08 06:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2026-01-01 10:00": {
+        "MANDELA_EFFECT": 2,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2026-01-10 20:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2026-02-04 06:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2026-01-30 05:00": {
+        "MANDELA_EFFECT": 2,
+        "REBUTTAL": 0,
+        "CONTENT": 2,
+        "NOISE": 0
+      },
+      "2026-02-03 08:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 1,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2026-01-01 22:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 1,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2026-02-02 19:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2026-01-18 06:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2026-01-09 13:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 1
+      },
+      "2026-01-09 14:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2026-01-09 18:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2025-12-20 13:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 3,
+        "NOISE": 0
+      },
+      "2026-01-10 05:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2026-01-10 09:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2025-12-21 15:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2025-12-21 16:00": {
+        "MANDELA_EFFECT": 2,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2026-01-10 23:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 1
+      },
+      "2026-01-11 01:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 2,
+        "NOISE": 0
+      },
+      "2025-12-22 00:00": {
+        "MANDELA_EFFECT": 2,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2026-01-11 11:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 2
+      },
+      "2026-01-11 12:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2025-12-22 13:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2026-01-12 05:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2026-01-12 11:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 1
+      },
+      "2026-01-13 01:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2026-01-14 02:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 1
+      },
+      "2026-01-14 03:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2025-12-25 01:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2025-12-25 05:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 2,
+        "NOISE": 0
+      },
+      "2025-12-25 06:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 2
+      },
+      "2025-12-25 10:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2025-12-25 12:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2025-12-26 00:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2025-12-26 05:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 1
+      },
+      "2025-12-26 06:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2025-12-27 00:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 1
+      },
+      "2026-01-17 06:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2025-12-28 00:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 1
+      },
+      "2025-12-28 08:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2025-12-28 17:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2025-12-29 02:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2025-12-29 05:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 1
+      },
+      "2025-12-29 14:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2025-12-30 00:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2025-12-30 19:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2025-12-31 10:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 1
+      },
+      "2025-12-31 19:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2026-01-02 04:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 1,
+        "CONTENT": 0,
+        "NOISE": 1
+      },
+      "2026-01-02 12:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2026-01-02 20:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2026-01-03 18:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2026-01-03 21:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2026-01-06 00:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2026-01-06 01:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2026-01-07 05:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2026-01-07 08:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2026-01-28 16:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2026-01-28 17:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2026-01-28 20:00": {
+        "MANDELA_EFFECT": 5,
+        "REBUTTAL": 1,
+        "CONTENT": 0,
+        "NOISE": 2
+      },
+      "2026-01-09 10:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2026-01-30 02:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2026-01-30 03:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2026-01-30 04:00": {
+        "MANDELA_EFFECT": 2,
+        "REBUTTAL": 0,
+        "CONTENT": 2,
+        "NOISE": 1
+      },
+      "2026-01-31 00:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 1
+      },
+      "2026-01-31 04:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 1
+      },
+      "2026-01-09 23:00": {
+        "MANDELA_EFFECT": 2,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2026-01-30 08:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2026-01-10 00:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 2,
+        "NOISE": 0
+      },
+      "2026-01-30 09:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 1
+      },
+      "2026-01-30 10:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2026-01-30 11:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 1
+      },
+      "2026-01-10 03:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2026-01-30 18:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 2,
+        "NOISE": 0
+      },
+      "2026-01-10 07:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2026-01-31 06:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 2,
+        "NOISE": 0
+      },
+      "2026-01-31 09:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2026-01-31 10:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2026-01-11 02:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2026-01-11 05:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2026-01-31 21:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 1,
+        "CONTENT": 0,
+        "NOISE": 1
+      },
+      "2026-02-01 00:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2026-02-01 01:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2026-02-01 08:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2026-01-12 02:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2026-01-12 06:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2026-02-02 00:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2026-01-13 00:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2026-02-02 07:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 1,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2026-02-02 08:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2026-02-02 11:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 1
+      },
+      "2026-02-02 17:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 1
+      },
+      "2026-01-13 20:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2026-02-03 02:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 2
+      },
+      "2026-02-03 10:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 1
+      },
+      "2026-02-03 21:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2026-02-06 05:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 1,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2026-01-14 23:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 1,
+        "CONTENT": 1,
+        "NOISE": 1
+      },
+      "2026-01-15 04:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2026-01-15 06:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 1,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2026-01-15 20:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2026-02-04 22:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2026-02-05 14:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2026-02-05 01:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 1,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2026-02-05 21:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2026-01-22 00:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2026-01-30 20:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 1
+      },
+      "2026-01-29 02:00": {
+        "MANDELA_EFFECT": 2,
+        "REBUTTAL": 2,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2026-01-28 14:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 1,
+        "CONTENT": 0,
+        "NOISE": 1
+      },
+      "2026-01-28 15:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2026-01-29 17:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2026-01-29 18:00": {
+        "MANDELA_EFFECT": 2,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2026-01-30 21:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 1
+      },
+      "2026-01-30 15:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2026-01-30 22:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2026-01-30 23:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2026-01-31 22:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2026-02-01 02:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2026-02-01 12:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2026-02-01 17:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2026-02-01 21:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2026-02-01 23:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2026-02-02 09:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2026-02-02 20:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2026-02-03 04:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 1
+      },
+      "2026-02-03 07:00": {
+        "MANDELA_EFFECT": 2,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2026-02-04 03:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 1
+      },
+      "2026-02-04 08:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2026-02-06 07:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2025-12-21 12:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2025-12-21 17:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2025-12-24 04:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2025-12-24 18:00": {
+        "MANDELA_EFFECT": 3,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2025-12-26 04:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 1
+      },
+      "2025-12-27 05:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 1,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2025-12-27 11:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2025-12-29 03:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2025-12-30 11:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 1,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2026-01-02 09:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2026-01-03 10:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 1,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2026-01-04 02:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 1,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2026-01-05 16:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 1,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2026-01-07 23:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 1,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2026-01-10 10:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2026-01-10 17:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 1,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2026-01-12 07:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2026-01-12 09:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2026-01-13 09:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2026-01-15 10:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2026-01-29 14:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2026-01-29 21:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 1,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2026-01-31 02:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2026-02-01 18:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2026-02-02 04:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 1
+      },
+      "2026-02-02 21:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2026-02-03 18:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2026-02-04 05:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2026-02-05 10:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2026-02-06 00:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2026-01-01 06:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2025-12-28 05:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2026-01-06 22:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 1,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2026-02-06 03:00": {
+        "MANDELA_EFFECT": 0,
+        "REBUTTAL": 0,
+        "CONTENT": 1,
+        "NOISE": 0
+      },
+      "2025-12-27 08:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 0
+      },
+      "2026-01-13 14:00": {
+        "MANDELA_EFFECT": 1,
+        "REBUTTAL": 0,
+        "CONTENT": 0,
+        "NOISE": 0
+      }
+    }
+  },
+  "depth_analysis": {
+    "0": {
+      "NOISE": 281,
+      "MANDELA_EFFECT": 385,
+      "CONTENT": 618,
+      "REBUTTAL": 41
+    },
+    "1": {
+      "NOISE": 243,
+      "REBUTTAL": 119,
+      "MANDELA_EFFECT": 359,
+      "CONTENT": 194
+    },
+    "2": {
+      "REBUTTAL": 73,
+      "MANDELA_EFFECT": 111,
+      "CONTENT": 33,
+      "NOISE": 25
+    },
+    "3": {
+      "REBUTTAL": 26,
+      "MANDELA_EFFECT": 25,
+      "CONTENT": 10,
+      "NOISE": 10
+    },
+    "4": {
+      "MANDELA_EFFECT": 10,
+      "NOISE": 5,
+      "REBUTTAL": 7,
+      "CONTENT": 4
+    },
+    "5": {
+      "MANDELA_EFFECT": 7,
+      "REBUTTAL": 14,
+      "NOISE": 4,
+      "CONTENT": 1
+    },
+    "6": {
+      "MANDELA_EFFECT": 5,
+      "NOISE": 1,
+      "REBUTTAL": 2
+    },
+    "7": {
+      "REBUTTAL": 1,
+      "MANDELA_EFFECT": 1
+    },
+    "8": {
+      "REBUTTAL": 1
+    }
+  }
+}
